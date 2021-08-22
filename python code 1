@@ -1,1 +1,3 @@
+interface address {
+street: string;
 
